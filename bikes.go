@@ -7,3 +7,7 @@ func ShiftUp() string {
 func ShiftDown() string {
 	return "Shifting down!"
 }
+
+func RingThBell() string {
+	return "Ring! Ring!"
+}
