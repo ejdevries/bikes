@@ -8,6 +8,6 @@ func ShiftDown() string {
 	return "Shifting down!"
 }
 
-func RingThBell() string {
+func RingTheBell() string {
 	return "Ring! Ring!"
 }
